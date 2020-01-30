@@ -79,7 +79,7 @@ if __name__ == '__main__':
 
     # Read camera
     # vs = WebcamVideoStream()
-    cap = cv2.VideoCapture(0)
+    cap = cv2.VideoCapture(1)
     time.sleep(2.0)
 
     if cap is None:
