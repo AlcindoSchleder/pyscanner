@@ -3,7 +3,7 @@ chardet==3.0.4
 idna==2.8
 imutils==0.5.3
 numpy==1.18.1
-opencv-python==4.1.2.30
+opencv-python==4.2.0.32
 psycopg2==2.8.4
 PyMySQL==0.9.3
 pyodbc==4.0.28
